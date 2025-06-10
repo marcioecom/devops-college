@@ -1,5 +1,5 @@
 # Docker Compose - Exemplo Prático com Node.js, PostgreSQL e Redis
-
+[Link dos slides](https://gamma.app/docs/Docker-Compose-Orquestracao-Simples-para-Devs-5p9vcgdyksj9uir)
 ## 🧠 Objetivo
 
 Este projeto demonstra o uso do **Docker Compose** para orquestrar múltiplos serviços em containers de forma simples e eficiente. Criamos um pequeno app em Node.js que se conecta a um banco PostgreSQL e a um cache Redis.
