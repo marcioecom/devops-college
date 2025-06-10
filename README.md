@@ -72,5 +72,4 @@ O **Docker Compose** é ideal para projetos pequenos ou médios que usam múltip
 ## 👥 Créditos
 
 Trabalho desenvolvido para a disciplina de **Engenharia de Software**.<br>
-Grupo: Márcio Mendonça, Dhayanne Espindola, Gabriel, Francisco, Bruno, Paulo Fidel
-
+Grupo: Victor Gabriel, Márcio Mendonça, Dhayanne Espindola, Francisco Cleyson, Antônio Paulo Fidel e Rafael Silva Paiva.
